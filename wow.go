@@ -1,5 +1,5 @@
 package wowmodule
 
 func Wow() string {
-	return "Wow!"
+	return "Wow! v1.0.1!"
 }
